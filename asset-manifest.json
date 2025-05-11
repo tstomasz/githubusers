@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/githubusers/static/css/main.f855e6bc.css",
+    "main.js": "/githubusers/static/js/main.58adfe57.js",
+    "static/js/453.86c588dc.chunk.js": "/githubusers/static/js/453.86c588dc.chunk.js",
+    "index.html": "/githubusers/index.html",
+    "main.f855e6bc.css.map": "/githubusers/static/css/main.f855e6bc.css.map",
+    "main.58adfe57.js.map": "/githubusers/static/js/main.58adfe57.js.map",
+    "453.86c588dc.chunk.js.map": "/githubusers/static/js/453.86c588dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.58adfe57.js"
+  ]
+}
