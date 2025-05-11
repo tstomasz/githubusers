@@ -29,6 +29,7 @@ const Container = styled(Box)`
 `;
 
 const StyledTextField = styled(TextField)`
+  padding-bottom: 10px;
   & .MuiOutlinedInput-root {
     & fieldset {
       border-color: #ccc;
