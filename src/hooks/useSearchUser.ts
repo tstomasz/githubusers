@@ -19,7 +19,6 @@ export const useSearchUser = (
       return response.json();
     },
     {
-      staleTime: 2000,
       enabled: !!query,
     },
   );
